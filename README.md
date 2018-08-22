@@ -2,10 +2,10 @@
 ## Alexa skill
 www.amazon.com/Dennis-Trate-Oracle-of-Cheese/dp/B07GNLBNTP/
 
-*Cheddar or swiss, colby or bleu;  
-The facts you need to do as you please.  
-Wedges and wheels, even Whiz too;  
-Take heed to consult the oracle of cheese.  *
+_Cheddar or swiss, colby or bleu;_  
+_The facts you need to do as you please._  
+_Wedges and wheels, even Whiz too;_  
+_Take heed to consult the oracle of cheese._  
 
 Search the oracle and find 35 facts about cheese! Compiled from highly-reliable* internet sources and edited for maximum Alexa-articulability. For more information, see https://github.com/pseudodennis/Oracle-of-Cheese.
 
