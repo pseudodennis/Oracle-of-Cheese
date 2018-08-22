@@ -22,5 +22,5 @@ Fact Sources:
 Icon Image:
 - https://pixabay.com/photo-3092936/
 
-Based on code:
+Lambda function code based on:
 - https://github.com/alexa/skill-sample-nodejs-fact/blob/en-US/lambda/custom/index.js
